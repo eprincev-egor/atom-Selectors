@@ -1,0 +1,19 @@
+{
+  "name": "selectors",
+  "main": "./lib/selectors",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "selectors:toggle"
+  },
+  "repository": "https://github.com/eprincev-egor/atom-Selectors",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+      "filewalker": "0.1.2"
+  }
+}
