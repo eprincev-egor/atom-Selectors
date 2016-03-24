@@ -1,10 +1,9 @@
 {
   "name": "selectors",
   "main": "./lib/selectors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find selector",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "selectors:toggle"
   },
@@ -14,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-      "filewalker": "0.1.2"
+    "filewalker": "0.1.2"
   }
 }
