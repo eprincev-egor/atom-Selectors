@@ -1,3 +1,2 @@
 cd %cd%
 cmd
-nikkipassword

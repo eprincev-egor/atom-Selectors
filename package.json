@@ -2,7 +2,7 @@
   "name": "selectors",
   "main": "./lib/selectors",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Find selector",
   "keywords": [
   ],
   "activationCommands": {
